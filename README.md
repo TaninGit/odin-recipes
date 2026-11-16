@@ -1,1 +1,1 @@
-# odin-recipes
+# The recipes book
